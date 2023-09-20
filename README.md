@@ -11,9 +11,11 @@ Minimal 75% Kehadiran dari LMS dan Tatap Muka
 ujian susulan dilakukan 1 minggu setelah ujian
 2 minggu sebelum UAS usahakan tanyakan **nilai** untuk direview :D
 
-## Kurikulum
+## Main Focus
 
-> Coming soon
+* Pengertian
+* Arsitektur
+* Socket Programming
 
 ## Penjelasan Teknis
 
