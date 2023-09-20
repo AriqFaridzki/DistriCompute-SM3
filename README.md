@@ -26,3 +26,5 @@ A distributed system is a collection of physically separated servers and data st
 
 
 yuliana@stmik-amikbandung.ac.id
+
+Kelompok : iqbal, Ariq, ijay, dicky, abdul wahid
